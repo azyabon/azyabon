@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azyabon&label=Profile%20views&color=0e75b6&style=flat" alt="azyabon" /> </p>
 
+<img src="![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6168374b776a4d4e4a6c68744b2f67697068792e676966](https://github.com/user-attachments/assets/163e4e2e-810a-4da9-9262-e763ae1a6004)" alt="azyabon" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
   1
 </p>
 
